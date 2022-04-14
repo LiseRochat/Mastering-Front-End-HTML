@@ -19,7 +19,7 @@
 ***
 
 ### General Info
-The repository resume all positions we can make in CSS. 
+In this repository we learn all we need in HTML.  
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ***
